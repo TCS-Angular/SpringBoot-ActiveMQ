@@ -1,4 +1,4 @@
-package com.recieve.config;
+package com.jms.config;
 
 import javax.jms.ConnectionFactory;
 
@@ -14,7 +14,7 @@ import org.springframework.jms.support.converter.MessageType;
 import org.springframework.stereotype.Component;
 
 @Configuration
-@ComponentScan(basePackages = "com.recieve")
+@ComponentScan(basePackages = "com.jms")
 public class JMSConfiguration {
 
 	@Bean

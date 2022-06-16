@@ -1,4 +1,4 @@
-package com.send.config;
+package com.jms.config;
 
 import javax.jms.ConnectionFactory;
 

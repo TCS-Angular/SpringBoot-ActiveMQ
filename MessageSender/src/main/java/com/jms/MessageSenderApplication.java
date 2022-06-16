@@ -1,4 +1,4 @@
-package com.send;
+package com.jms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,7 +6,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.jms.annotation.EnableJms;
 import org.springframework.jms.core.JmsTemplate;
 
-import com.send.model.Product;
+import com.jms.model.Product;
 
 @SpringBootApplication
 @EnableJms

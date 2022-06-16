@@ -1,4 +1,4 @@
-package com.recieve.model;
+package com.jms.model;
 
 import java.io.Serializable;
 

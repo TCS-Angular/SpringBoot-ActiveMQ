@@ -1,4 +1,4 @@
-package com.send.model;
+package com.jms.model;
 
 import java.io.Serializable;
 
